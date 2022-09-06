@@ -6,7 +6,7 @@
 ### Narrativa:
 
 - Pedido:<br/>
-  ->Os pedidos são criados por clientes e possuem informações de
+  -> Os pedidos são criados por clientes e possuem informações de
 compra, endereço e status da entrega;<br/>
   -> Um produto ou mais compoem o pedido;<br/>
   -> O pedido pode ser cancelado;<br/>
