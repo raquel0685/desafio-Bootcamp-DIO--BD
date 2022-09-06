@@ -1,3 +1,4 @@
+<img src = "https://github.com/raquel0685/desafio-Bootcamp-DIO-DBExperience/blob/main/db.png" width="200" center>
 
 # Desafio Bootcamp Database Experience da DIO
 
